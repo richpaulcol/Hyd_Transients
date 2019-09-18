@@ -1,0 +1,37 @@
+The aim of this repo is to reorganise the program for calculating the hydraulic transients in water pipe systems.
+
+I will be aiming to use the structures of the epanet-dev to aid the ease of development of the program and to ensure that the it can be easily extended.
+
+There will be many ToDo's
+
+The structure will be something like the following:
+    = Core
+        * Project       #ToDo
+        * Network       #ToDo
+        * Units         #ToDo
+        * EPANet integration    #ToDo
+    = Elements
+        * Link      #ToDo
+        * Node      #ToDo
+
+        * Pipe      #ToDo
+        * Valve     #ToDo
+        * Pump      #ToDo
+        * Junction  #ToDo
+        * Emitter       #ToDo
+        * Reservoir     #ToDo
+        * Tank      #ToDo
+
+    = Models
+        * Headloss      #ToDo
+        * Friction Model        #ToDo
+        * Visco Model       #ToDo
+
+
+    = Solvers
+        * MOC       #ToDo
+        * RWC       #ToDo
+
+    = Utilities
+        * Plotters      #ToDo
+        * Network Plot      #ToDo
