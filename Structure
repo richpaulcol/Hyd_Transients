@@ -35,3 +35,6 @@ The structure will be something like the following:
     = Utilities
         * Plotters      #ToDo
         * Network Plot      #ToDo
+
+
+I also want to use an element of persistence, some sort of file to save the current state of the calculation to ensure that a calculation can be restarted. ToDo
